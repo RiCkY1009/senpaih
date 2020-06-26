@@ -1,0 +1,2 @@
+# senpaih
+Sla bot aleatório
